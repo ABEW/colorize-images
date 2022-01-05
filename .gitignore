@@ -130,3 +130,7 @@ dmypy.json
 
 # data folder for training, validation and test
 data/
+
+# folder created by MacOS
+.DS_STORE/
+.DS_STORE
